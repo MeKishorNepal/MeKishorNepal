@@ -43,10 +43,4 @@
 ### Version Control
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 📈 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KishorNepal&theme=gruvbox&show_icons=true" alt="GitHub stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KishorNepal&theme=gruvbox" alt="GitHub streak"/>
-</p>
-
 ---
